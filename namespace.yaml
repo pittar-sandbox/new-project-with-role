@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  annotations:
+    openshift.io/description: Test Create Project
+    openshift.io/display-name: Test Create Project
+  name: test-create-project-from-file
+
